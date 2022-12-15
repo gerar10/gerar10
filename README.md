@@ -1,11 +1,10 @@
 <h2 align="center"> Hi! I'am Gerard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
+I am an economist, with a master's degree in business and more than 14 years of work experience in multinational companies. Throughout this time I developed my skills in negotiation, teamwork and project execution. My first step in the IT industry was as a Product Owner, which allowed me to have a strategic vision of the product. Finally I decided to focus on being a Developer. I am very excited to keep growing, face new challenges and add value.
+<br/>
  <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer+PERN&center=true">
+ <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
 </p>
-<br/>
-<br/>
-<h2>Lenguajes, librerías y herramientas</h2>
+<h2>Lenguages and tools </h2>
 <br/>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="70" height="70"/>
@@ -24,40 +23,37 @@
 
 </div>
 
-
 <h2> Projects </h2>
 
 <h3> Net Secutiry - Aplicación Web y mobile </h3>
 
-<p align="center">
+<p>
  
- Desarrollamos una aplicación desde la cual una empresa de seguridad
-puede gestionar y controlar la presencia de vigiladores dentro de las
-distintas sucursales de sus clientes.
-Equipo conformado por 5 integrantes y plazo de 1 mes.
-Desarrollé parte del back (NodeJS, Sequelize, Postgres, Express) y
-parte de la aplicación mobile con react native.                                                                                         
+We developed an application from which a security company can manage and control the presence of security guards inside the different branches of their clients. The team consisted of 5 members and the deadline was 1 month. I developed part of the back end (NodeJS, Sequelize, Postgres, Express) and part of the mobile application with react native.                                                                                 
  </p>
-<hr></hr>
- 
-[<h3> E-commerce </h3>]
- 
- <p align="center">
- 
- Tienda de comercio virtual con funcionalidad completa de carrito. Se realizó en 2 semanas 
- y contó con la participación de 6 desarrolladores.
- Desarrollado con React, Redux, Express.js, Sequelize.js, PostgreSQL, Bootstrap.
-   
- </p>
- <hr></hr>
 
-[<h3> TMDB </h3>]
-
- <p align="center">
  
- Aplicación que utiliza la API de https://www.themoviedb.org/ y que permite buscar, listar y agregar a favoritos películas y series de TV. 
- Se realizó en 1 semana. Proyecto individual.
- Desarrollado con React, Redux, Express.js, Sequelize.js, PostgreSQL.
-   
- </p>
+<h3> E-commerce </h3>
+ 
+<p>
+E-commerce store with full shopping cart functionality. It was done in 2 weeks and counted with the participation of 6 developers. Developed with React, Redux, Express.js, Sequelize.js, PostgreSQL, Bootstrap.
+</p>
+
+<h3> TMDB </h3>
+
+<p>
+ 
+Application that uses the API of https://www.themoviedb.org/ and that allows to search, list and add to favorites movies and TV series. 
+It was done in 1 week. Individual project.
+Developed with React, Redux, Express.js, Sequelize.js, PostgreSQL.   
+</p>
+
  <hr></hr>
+ 
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gerar10&theme=gruvbox&hide_border=falso&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+![gerar10](https://github-readme-stats.vercel.app/api?username=gerar10&show_icons=true&theme=gruvbox)
+
+
