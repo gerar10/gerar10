@@ -1,5 +1,5 @@
 <h2 align="center"> Hi! I'am Gerard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-I am an economist, with a master's degree in business and more than 14 years of work experience in multinational companies. Throughout this time I developed my skills in negotiation, teamwork and project execution. My first step in the IT industry was as a Product Owner, which allowed me to have a strategic vision of the product. Finally I decided to focus on being a Developer. I am very excited to keep growing, face new challenges and add value.
+I am an economist, with a master's degree in business administration and more than 14 years of work experience in multinational companies. Throughout this time I developed my skills in negotiation, teamwork and project execution. My first step in the IT industry was as a Product Owner, which allowed me to have a strategic vision of the product. Finally I decided to focus on being a Developer. I am very excited to keep growing, face new challenges and add value.
 <br/>
  <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
