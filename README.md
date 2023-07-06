@@ -1,7 +1,13 @@
 <h2 align="center"> Hi! I'm Gerard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-Hi, my name is Gerard, I am an economist with an MBA. I am currently working as a software developer at Constata.eu, a company that works with Blockchain and WEB3 technology. I have worked on projects using the following technologies: 
-Javascript, Typescript, Rust, React.js, Node.js, Selenium, GraphQL, Sequelize, SQL .
-Throughout this time I developed my skills in negotiation, teamwork, customer service, active listening, project execution and meeting different business objectives.
+Hi, my name is Gerard, I consider myself a person who is always
+looking to keep up to date with industry
+technologies, apply best practices, add
+value with innovative proposals and work in
+teams in an agile way. I want and always
+work to have the ability to solve increasingly
+complex problems. I am convinced that
+interdisciplinary work enhances positive
+results.
 <br/>
  <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
