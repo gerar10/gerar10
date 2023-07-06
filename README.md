@@ -1,5 +1,5 @@
 <h2 align="center"> Hi! I'm Gerard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-Hi, my name is Gerard, I consider myself a person who is always
+I consider myself a person who is always
 looking to keep up to date with industry
 technologies, apply best practices, add
 value with innovative proposals and work in
