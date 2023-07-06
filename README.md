@@ -9,8 +9,8 @@ complex problems. I am convinced that
 interdisciplinary work enhances positive
 results.
 <br/>
- <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
+ <p align="center"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=ff5080&lines=Full+Stack+Developer&center=true">
 </p>
 <h2>Lenguages and tools </h2>
 <br/>
