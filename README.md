@@ -12,7 +12,7 @@ results.
  <p align="center"> 
  <img src="https://readme-typing-svg.herokuapp.com?color=ff5080&lines=Full+Stack+Developer&center=true">
 </p>
-<h2>Lenguages and tools </h2>
+<h2> Technologies </h2>
 <br/>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="CSS3" alt="CSS3" width="70" height="70"/>
