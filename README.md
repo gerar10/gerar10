@@ -31,19 +31,31 @@ results.
 
 <h2> Projects </h2>
 
+<h3> Fast Delivery </h3>
+ 
+<p>
+A last mile logistics company has hundreds of delivery drivers who receive ~10 packages each at the beginning of the day and must deliver them throughout the day. 
+The company must be able to monitor the operation of delivery drivers, assign or reassign packages and intervene if necessary to edit a shipment to modify the address or reassign the shipment to another driver.
+
+An application with two different roles:
+
+- Delivery driver role: delivery drivers will be able to register and log in freely and select the packages to be delivered that day with a maximum of 10.
+
+- Administrator role: the company will be able to see the list of registered deliverymen, how many deliverymen are active with deliveries in progress, how many packages each deliveryman has, create, view and edit the packages to be sent.  
+</p>
 <h3> Net Secutiry - Aplicación Web y mobile </h3>
 
 <p>
  
-We developed an application from which a security company can manage and control the presence of security guards inside the different branches of their clients. The team consisted of 5 members and the deadline was 1 month. I developed part of the back end (NodeJS, Sequelize, Postgres, Express) and part of the mobile application with react native.                                                                                 
+We developed an application from which a security company can manage and control the presence of security guards inside the different branches of their clients. <br>
+Two aplications: <br>
+- Responsive web management: manage customer data, premises, security guards and work schedules. Manually assign locations and schedules for security guards. <br> 
+- Mobile application to be used by each security guard to ensure their presence at their workstation throughout their workday.                                     
+
  </p>
 
  
-<h3> E-commerce </h3>
- 
-<p>
-E-commerce store with full shopping cart functionality. It was done in 2 weeks and counted with the participation of 6 developers. Developed with React, Redux, Express.js, Sequelize.js, PostgreSQL, Bootstrap.
-</p>
+
 
 <h3> TMDB </h3>
 
