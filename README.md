@@ -26,7 +26,6 @@ results.
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Jira" alt="Jira" width="70" height="70"/>
 
 </div>
 
